@@ -1,0 +1,1 @@
+This module provides AWS S3 buckets configured for static website hosting
